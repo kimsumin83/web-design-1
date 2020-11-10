@@ -1,0 +1,16 @@
+#dummy{
+    height:1280px;
+
+}
+a {
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+a:hover{
+    color: brown;
+    
+}
+#description{
+    height: 600px;
+}
